@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mypolian-cyber.github.io/reference-4mqfj3/sitemap.xml
